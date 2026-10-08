@@ -1,6 +1,6 @@
 ---
-status: draft
-updated: 2026-10-05
+status: active
+updated: 2026-10-08
 tags:
   - akadze
   - design
